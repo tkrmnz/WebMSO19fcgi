@@ -23,3 +23,4 @@ TrigWidth1,0
 TrigModeDSO0,0
 TrigModeDSO1,0
 TrigChan,0
+TrigOutSrc,0
